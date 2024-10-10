@@ -47,7 +47,7 @@ To get started with NetHawk Solutions:
 
 ## Contact
 
-For inquiries or more information, please contact us at [contact@nethawk-solutions.com](mailto:contact@nethawk-solutions.com).
+For inquiries or more information, please contact us at [contact@nethawk-solutions.com](mailto:info@nethawksolutions.org).
 
 ## License
 
